@@ -2,8 +2,7 @@
   name: "bsix",
   bbox: [-6.273215, 43.29695, 18.01375, 53.96015],
   features: [
-    {
-      type: "Feature",
+    {type: "Feature",
       properties: {
         Numero: 255,
         RefSite: "1978",
