@@ -1,5 +1,4 @@
-{
-  type: "FeatureCollection",
+{type: "FeatureCollection",
   name: "bsix",
   bbox: [-6.273215, 43.29695, 18.01375, 53.96015],
   features: [
