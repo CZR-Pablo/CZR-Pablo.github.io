@@ -1,4 +1,4 @@
-{"type":"FeatureCollection", "features": [
+var prov_name = {"type":"FeatureCollection", "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.7622257445911487,52.399001050702566]},"properties":{"name":"Britannia"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5913524521876639,48.5093668152806]},"properties":{"name":"Lugdunensis"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[4.2563555333318845,49.3413754198628]},"properties":{"name":"Belgica"}},
